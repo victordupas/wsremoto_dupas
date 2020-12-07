@@ -1,0 +1,28 @@
+package br.com.vendas;
+
+public class implementaCliente2 {
+
+	
+	Cliente cliente = null;
+	cliente = new PessoaFisica(
+			
+			"ID",
+			"Nome",
+			"Email",
+			"Especial",
+			"CPF",
+			"RG",
+			"NAscimento");
+			
+			
+			);
+			
+			
+			
+			
+			
+	
+	
+	
+	
+}

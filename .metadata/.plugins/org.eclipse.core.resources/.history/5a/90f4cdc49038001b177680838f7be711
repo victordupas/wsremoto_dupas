@@ -1,0 +1,16 @@
+package br.com.vendasbr.com.excecoes.implementacao;
+
+public class TesteExcecao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int numero = Integer.parseInt("7");
+		System.out.println("número:" + numero);
+		
+		
+		
+
+	}
+
+}

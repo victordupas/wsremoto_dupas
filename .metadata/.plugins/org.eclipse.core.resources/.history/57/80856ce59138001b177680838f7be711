@@ -1,0 +1,20 @@
+package br.com.vendasbr.com.excecoes.implementacao;
+
+public class TesteExcecao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+		
+		int numero = Integer.parseInt("A");
+		System.out.println("número:" + numero);
+		}  catch(Exception e) {
+			
+			System.out.println("deu pau" + e);
+		}
+		
+		
+
+	}
+
+}
